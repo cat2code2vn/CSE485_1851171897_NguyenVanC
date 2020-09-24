@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Toi dang test Github</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit distinctio molestiae ullam facilis voluptate officiis iure. Debitis dicta, adipisci unde reiciendis maiores dolores enim mollitia maxime architecto dolor quibusdam cumque?</p>
 </body>
 </html>
